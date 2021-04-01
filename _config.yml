@@ -1,0 +1,30 @@
+url: "http://tours.afup.org"
+
+title: "AFUP Tours"
+description: >-
+  Antenne AFUP sur Tours
+twitter_username: AFUP_Tours
+meetup_url: "https://www.meetup.com/fr-FR/afup-tours-php/"
+
+permalink: /posts/:title
+
+ga_ua: ""
+home_featured_articles_count: 1
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+
+exclude:
+   - Makefile
+   - docker-compose.yml
+   - docker-compose.override.yml-dist
+   - docker-compose.override.yml
+   - Gemfile
+   - Gemfile.lock
+
+feed:
+  path: feed
+
