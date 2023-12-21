@@ -60,11 +60,11 @@ Mais avant cela, nous tenions à vous faire un petit récapitulatif de cette ann
 
   💻 "Demo API Platform" par [Sébastien Courjean](https://twitter.com/seblu37).
 
-Un grand merci à tous nos speakers qui sont venus de Nantes, Poitiers, en visio et de toute la Touraine.
+Un grand merci à tous nos speakers qui sont venus de Nantes, Poitiers, en visioconférence et de toute la Touraine.
 
 Et pourquoi pas vous en 2024 ? En solo ou en duo, 20min ou 40min, contactez-nous pour nous soumettre vos sujets ou allez directement sur notre page de [CFP](https://conference-hall.io/public/event/YLgOeNa3PtvKQ3J5Dv9d).
 
-Voici quelques dates que vous pouvez déjà noter dans votre agenda pour 2024:
+Voici quelques dates que vous pouvez déjà noter dans votre agenda pour 2024 :
 - 📅 Jeudi 18 Janvier, format Meetup
 - 📅 Jeudi 22 Février, format Meetup
 - 📅 ?? Mars (date à venir) : Super Apéro AFUP national, format Meetup
@@ -72,10 +72,10 @@ Voici quelques dates que vous pouvez déjà noter dans votre agenda pour 2024:
 - 📅 Vendredi 24 Mai : AFUP Day Poitiers, pas d'event sur Tours, on se retrouve à Cobalt pour toute la journée, plus d'infos et billetterie sur https://event.afup.org/afup-day-2024/afup-day-2024-poitiers/
 - 📅 Jeudi 20 Juin, format Meetup, élection antenne locale
 
-N'hésitez pas également à consulter notre chaîne Youtube AFUP Tours vous y retrouverez la [playlist meetups](https://www.youtube.com/playlist?list=PLpRM-eg0NZKM470p-7PqIpAcsk5EvWkko).
+N'hésitez pas également à consulter notre chaîne Youtube AFUP Tours, vous y retrouverez la [playlist meetups](https://www.youtube.com/playlist?list=PLpRM-eg0NZKM470p-7PqIpAcsk5EvWkko).
 
 
-Tous nos événements sont disponible sur notre [groupe meetup](https://www.meetup.com/fr-FR/afup-tours-php/) ou Twitter [@AFUP_Tours](https://twitter.com/AFUP_Tours)
+Tous nos événements sont disponibles sur notre [groupe meetup](https://www.meetup.com/fr-FR/afup-tours-php/) ou Twitter [@AFUP_Tours](https://twitter.com/AFUP_Tours)
 
 Très bonnes fêtes de fin d'année à toutes et à tous.
 
