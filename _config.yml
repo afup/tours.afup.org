@@ -1,4 +1,5 @@
 url: "http://tours.afup.org"
+baseurl: /archives
 
 title: "AFUP Tours"
 description: >-
@@ -8,7 +9,6 @@ meetup_url: "https://www.meetup.com/fr-FR/afup-tours-php/"
 
 permalink: /posts/:title
 
-ga_ua: "G-C9CQX3DXKF"
 home_featured_articles_count: 1
 
 # Build settings

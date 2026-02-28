@@ -4,7 +4,7 @@ title: 'Headless CMS et élection du bureau de l&rsquo;antenne locale'
 date: 2019-06-21T15:33:08+00:00
 author: Equipe AFUP Tours
 layout: post
-guid: http://tours.afup.org/?p=56
+guid: /archives/?p=56
 permalink: /2019/06/21/headless-cms-et-election-du-bureau-de-lantenne-locale/
 categories:
   - Meet-Up

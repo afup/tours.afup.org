@@ -4,7 +4,7 @@ title: 'L&rsquo;antenne locale de Tours se présente'
 date: 2018-07-12T09:30:46+00:00
 author: mauger
 layout: post
-guid: http://tours.afup.org/?p=21
+guid: /archives/?p=21
 permalink: /2018/07/12/lantenne-locale-de-tours-se-presente/
 categories:
   - Présentation
